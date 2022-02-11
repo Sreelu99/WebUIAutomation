@@ -1,0 +1,14 @@
+{
+  "name": "harverqa",
+  "version": "1.0.0",
+  "description": "\"The-Internet Herokuapp Automation\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Srilakshmi\"",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
