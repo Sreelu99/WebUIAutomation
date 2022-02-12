@@ -6,9 +6,9 @@
  
  ## Setup:
  
--- First time you need to run "npm ci"
+-- First time you need to run 'npm ci'
 
--- After finish of setup,open cypress by running "node_modules\.bin\cypress open"
+-- After finish of setup,open cypress by running 'node_modules\.bin\cypress open'
 
 -- You will see a Cypress Window opening
 
