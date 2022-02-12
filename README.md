@@ -6,13 +6,13 @@
  
  ## Setup:
  
--- First time you need to run 'npm ci'
+First time you need to run 'npm ci'
 
--- After finish of setup,open cypress by running 'node_modules\.bin\cypress open'
+After finish of setup,open cypress by running 'node_modules\\.bin\cypress open'
 
--- You will see a Cypress Window opening
+You will see a Cypress Window opening
 
--- Now click "Run Integration specs" from Cypress Window to execute all tests
+Now click "Run Integration specs" from Cypress Window to execute all tests
 
 **Now can find the testcases running**
 
